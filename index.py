@@ -1,9 +1,9 @@
 import pymongo
 import dns
 import certifi
-from datetime import date
-import pandas as pd
-from dateutil import parser
+
+
+
 def deleteItem(dbname):   # to delete an item from a cart
     collection_name=dbname['items_list']
     cart_name=input("Enter the cart name ")
