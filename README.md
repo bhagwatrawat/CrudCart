@@ -1,4 +1,6 @@
 # CrudCart
+created a shopping cart REST API using python and MongoDB that handles CRUD
+operations for a specific user like create cart, get items, add items and remove items.
 
 ## What you need to run this code
 1. python version 3.6 or later
